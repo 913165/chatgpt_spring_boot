@@ -1,5 +1,4 @@
 
-Sure! Here's your updated **Table of Contents (ToC)** for the course titled **"Spring Boot Using ChatGPT"**, including a new section on **"functiion_createion_demo_java.mp4"** (assuming this refers to a demo video for function creation in Java — despite the spelling mistake):
 
 ----------
 
